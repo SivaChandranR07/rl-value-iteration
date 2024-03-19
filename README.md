@@ -78,9 +78,10 @@ def value_iteration(P, gamma=1.0, theta=1e-10):
 ```
 
 ## OUTPUT:
-![Screenshot 2024-03-18 223336](https://github.com/sivabalan28/rl-value-iteration/assets/113497347/0ee179f5-a92f-415e-a2ce-08a6a5511b7e)
-![Screenshot 2024-03-18 223352](https://github.com/sivabalan28/rl-value-iteration/assets/113497347/9a57ae85-3f2f-4b9a-a6c2-31810207ca89)
-![Screenshot 2024-03-18 223346](https://github.com/sivabalan28/rl-value-iteration/assets/113497347/7853897c-e9b4-439a-bd38-d4dc7a95117c)
+![Screenshot 2024-03-19 143109](https://github.com/SivaChandranR07/rl-value-iteration/assets/113497395/85ce4b10-b5d5-4ce1-bc53-ba98fc7fd80b)
+
+![Screenshot 2024-03-19 143117](https://github.com/SivaChandranR07/rl-value-iteration/assets/113497395/f8cb72fd-13f6-42f3-b532-1b07fa895b2d)
+![Screenshot 2024-03-19 143121](https://github.com/SivaChandranR07/rl-value-iteration/assets/113497395/fd161e29-b002-4179-97c8-d154f5a176e9)
 
 ## RESULT:
 
